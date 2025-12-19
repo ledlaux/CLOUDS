@@ -1,4 +1,3 @@
-/* 
   This is example code of Mutable Instruments Plaits 1.2 and Clouds Parasites firmware reverb
   running on Raspberry Pi Pico RP2350 with I2S DAC.
 
