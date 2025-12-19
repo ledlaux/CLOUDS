@@ -9,6 +9,8 @@ An additional **DX7 SysEx bank** has been added for the OP6 engine, making a tot
 
 ## Setup Instructions
 
+Copy CLOUDSparasites, PLAITS1.2 and SMTLIB folders to ArduinoIDE lib folder
+
 - CPU: **276 MHz Overclock**  
 - Optimize: **Even More -O3**  
 - Select **TinyUSB stack** in ArduinoIDE tools for easier adjustments and testing  
