@@ -1,7 +1,6 @@
   # Cloudy Plaits RP2350
 
-This is example code of **Mutable Instruments Plaits 1.2** and **Clouds Parasites firmware reverb**  
-running on **Raspberry Pi Pico RP2350** with **I2S DAC**.
+This is example code of **Mutable Instruments Plaits 1.2** and **Clouds Parasites firmware reverb** running on **Raspberry Pi Pico RP2350** with **I2S DAC**.
 
 Program cycles through clean Plaits engines -> Clouds reverb -> Oliverb fx
 
@@ -20,8 +19,7 @@ Copy CLOUDSparasites, PLAITS1.2 and SMTLIB folders to ArduinoIDE lib folder
 **Vadims Maksimovs** — ledlaux@gmail.com (2025)  
 License: MIT
 
-This code is part of the **porting project of Mutable Instruments eurorack modules to Arduino**  
-by **Mark Washeim**, licensed under the MIT License
+This code is part of the **porting project of Mutable Instruments eurorack modules to Arduino** by **Mark Washeim**, licensed under the MIT License
 
 Main repository: [arduinoMI](https://github.com/poetaster/arduinoMI)
 
